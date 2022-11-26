@@ -6,8 +6,11 @@ Frontend development assignment by LeagueX. It consist of selecting 11 cricket p
 3. There is also a restriction with player roles
 
   A. 3(min)- 7(max) Batsman
+  
   B. 1(min)- 5(max) Wicket keepers
+  
   C. 0(min)- 4(max) All Rounders
+  
   D. 3(min)- 7(max) Bowlers)
 
 4. If all above conditions are satisfied, show the players in the next page.
