@@ -1,0 +1,18 @@
+.tableRow {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.2rem 1rem;
+    border: 1px solid black;
+}
+
+.selectedRow {
+    background-color: rgb(231, 230, 230);
+}
+
+.tableRow:hover {
+    cursor: pointer;
+}
+
+.selectedRow:hover {
+    cursor: pointer;
+}

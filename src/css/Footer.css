@@ -1,0 +1,11 @@
+.proceedBtn {
+    width: 70vw;
+    margin: 1rem;
+    padding: 0.5rem;
+    background-color: white;
+}
+
+.proceedBtn:hover {
+    cursor: pointer;
+    background-color: gray;
+}
